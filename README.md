@@ -11,8 +11,6 @@
 - [Usage](#usage)
 - [Training](#training)
 - [Evaluation](#evaluation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
